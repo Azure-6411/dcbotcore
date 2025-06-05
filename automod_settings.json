@@ -1,0 +1,16 @@
+{
+    "enabled": false,
+    "anticuss": true,
+    "antispam": false,
+    "antiinvite": true,
+    "anticaps": true,
+    "antilinks": false,
+    "antiemoji": false,
+    "antimention": false,
+    "antinewlines": false,
+    "banned_words": [
+        "nigga",
+        "nigger",
+        "asshole"
+    ]
+}
